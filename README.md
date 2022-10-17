@@ -2,7 +2,7 @@
 PolyMC's git got breached on the 17th of October, 2022. This script is easily embeddable to a website and alerts users to its status.<br>
 To embed this script, add this to your website's HTML: 
 ```html
-<script src="https://raw.githubusercontent.com/thefightagainstmalware/PolyMCAlert/main/placeholdermc-alert.js"></script>
+<script src="https://malwarefight.gq/PolyMCAlert/placeholdermc-alert.js"></script>
 ```
 
 Example of what it looks like on a site
