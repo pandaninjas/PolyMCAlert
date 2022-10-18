@@ -2,7 +2,7 @@
 PolyMC's git got breached on the 17th of October, 2022. This script is easily embeddable to a website and alerts users to its status.<br>
 To embed this script, add this to your website's HTML: 
 ```html
-<script src="https://pandaninjas.github.io/PolyMCAlert/placeholdermc-alert.js"></script>
+<script src="https://pandaninjas.github.io/PolyMCAlert/prism-launcher-alert.js"></script>
 ```
 
 Example of what it looks like on a site
